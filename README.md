@@ -39,3 +39,6 @@ by some other chess pieces on the way of the move).
 4. The player wins if they can keep making valid moves such that that one chess piece is left on the board.
 
 5. The player loses if there are no valid moves but more than one chess pieces are left on the board.
+
+
+Also in this project we implement the undo/redo pattern regarding the convenience of the player.
